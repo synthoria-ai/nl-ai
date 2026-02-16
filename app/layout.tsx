@@ -62,6 +62,12 @@ export default function RootLayout({
                 >
                   Learning Paths
                 </Link>
+                <Link
+                  href="/resources"
+                  className="text-gray-700 dark:text-gray-300 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors font-medium"
+                >
+                  Resources
+                </Link>
               </div>
             </div>
           </div>
